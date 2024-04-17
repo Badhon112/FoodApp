@@ -1,9 +1,14 @@
-// import { useState } from "react";
-import "./App.css";
-import { Button } from "./components/ui/button";
+// import "./App.css";
+// import { Button } from "./components/ui/button";
+
+// import Header from "./components/Header";
 
 function App() {
-  return <Button>Click Me</Button>;
+  return (
+    <div>
+      {/* <Header /> */}
+    </div>
+  );
 }
 
 export default App;
